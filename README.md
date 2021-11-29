@@ -3,9 +3,11 @@ Are Decorative Brick Patterns “Cheaper by the Dozen”?
 
 ## About
 
-This article describes a method to generate the sequence of
+This [article][] describes a method to generate the sequence of
 brick pattern units first described by Frank and Lillian Gilbreth
 on page 265 of their 1909 book “Bricklaying System”.
+
+[article]: beauty-and-the-bricks.pdf
 
 ## References
 
