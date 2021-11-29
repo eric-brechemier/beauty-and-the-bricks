@@ -1,8 +1,8 @@
 # Source
 
-* [beauty-and-the-bricks.sla](beauty-and-the-bricks.sla)
-
 Created in [Scribus][] 1.5.7.
+
+* [beauty-and-the-bricks.sla](beauty-and-the-bricks.sla)
 
 [Scribus]: https://www.scribus.net/
 
