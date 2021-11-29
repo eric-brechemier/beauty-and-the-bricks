@@ -1,6 +1,8 @@
 # Source
 
-Created in Scribus 1.5.7.
+Created in [Scribus][] 1.5.7.
+
+[Scribus]: https://www.scribus.net/
 
 ## Fonts
 
